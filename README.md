@@ -1,6 +1,7 @@
 # Bebe App (Tranlation App)
 A discord slash application I made for fun.
-Features:
+
+###Features:
 - Send TTS (Using VOIVEVOX API: Haruka Nana)
 - Send GIFs
 - Send videos
